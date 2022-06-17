@@ -1,1 +1,2 @@
-# Mochila_RPG
+# RPG's Python
+COdigozinhos para sistema de RPG
